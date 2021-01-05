@@ -1,4 +1,6 @@
 #!/bin/bash
+# Created On: 01-05-2021
+# Created By: RLJ
 
 option="${1}"
 process=[PROCESS_OR_PROGRAM]
